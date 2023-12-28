@@ -1,4 +1,5 @@
 // gfx2.h
+// contains graphics functions
 
 #ifndef GFX2_H
 #define GFX2_H
